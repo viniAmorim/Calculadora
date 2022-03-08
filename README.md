@@ -1,5 +1,9 @@
 A simple project for a calculator using ReactJS
 
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/70040371/157270696-5dbb5d3e-845e-4a92-9709-dcd7f0f383d0.png" width="300px">
+</div>
+
 ## Clone and Install
 First, clone the project
 
